@@ -2,7 +2,7 @@
 - 👀 I’m interested in sidebysides
 - 🌱 I’m currently learning coding 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me racerh75@yahoo.com
 
 <!---
 Richie75x/Richie75x is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
